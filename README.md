@@ -19,3 +19,8 @@ This project contributes to the improvement of student learning outcomes by crea
 
 Contributions:
 Contributions to this project are welcome and can be made by submitting a pull request to the GitHub repository. Suggestions for improving the chatbot's functionality or user experience are also encouraged.
+
+
+A sample Image of the Api:-
+![image](https://user-images.githubusercontent.com/114836519/228335968-a5c82143-b227-4370-ad64-88fc2bfc273a.png)
+
